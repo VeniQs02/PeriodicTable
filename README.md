@@ -3,9 +3,7 @@
 
 A table for displaying elements. Allows the user to manipulate and filter data while maintaining a clean design using angular material.
 
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![logo](https://github.com/user-attachments/assets/70bdccd0-34c9-426d-8bec-286976317d10)
 
 ## Run Locally
 
